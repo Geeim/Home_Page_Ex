@@ -63,7 +63,7 @@
         <!--ROW CONTENT 1-->
         <div class="row content1-bg">
             <div class="col-md-6 d-flex justify-content-center align-items-center image-container">
-                <img src="images/agent.jpeg" alt="Marci Metzger" class="agent-img" data-bs-toggle="modal" data-bs-target="#agentModal">
+                <img src="images/Agent.jpeg" alt="Marci Metzger" class="agent-img" data-bs-toggle="modal" data-bs-target="#agentModal">
                 <div class="hover-text">Get to know Marci Metzger</div>
             </div>
         
