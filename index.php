@@ -76,7 +76,7 @@
                         </div>
                 
                         <div class="modal-body">
-                            <img src="images/agent.jpeg" class="img-fluid mb-3 shadow" alt="Marci Metzger">
+                            <img src="images/Agent.jpeg" class="img-fluid mb-3 shadow" alt="Marci Metzger">
                             <h6>Managing Broker / Owner</h6>
                             <p>Marci was a REALTOR, then licensed Broker, in Washington State. Having helped buyers and sellers in many markets since 1995, she is a wealth of knowledge.</p>
                             <h6>In Her Words</h6>
